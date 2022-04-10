@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="">
-</p>
+
 <h1 align="center">
   <b>BOT</b>
 </h1>
