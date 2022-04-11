@@ -100,14 +100,6 @@ async def answer(bot, query):
                            switch_pm_parameter="okay")
 
 
-def get_reply_markup(query):
-    buttons = [
-        [
-            InlineKeyboardButton('Official Channels', url='https://t.me/MoviesCenterOfficial')              
-        ] 
-        ]
-
-    return InlineKeyboardMarkup(buttons)
 
 
 
